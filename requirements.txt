@@ -1,0 +1,6 @@
+tensorflow
+nnumpy
+nstreamlit
+nmatplotlib
+nscikit-learn
+npillow
