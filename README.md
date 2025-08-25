@@ -1,5 +1,10 @@
 # Skin-Cancer-Detection
 A ML project for detecting skin cancer using TensorFlow-keras
 # Skin Cancer Detection with Deep Learning
+# Skin Cancer Detection with Deep Learning
 
-سرطان پوست یکی از شایع‌ترین انواع سرطان در جهان است و در سال ۲۰۲۵، بیش از ۱۰۵,۰۰۰ مورد جدید ملانوما در ایالات متحده تشخیص داده می‌شود که منجر به حدود ۸,۰۰۰ مرگ می‌گردد، در حالی که در سطح جهانی بیش از ۱.۵ میلیون مورد جدید گزارش شده است. علل اصلی شامل قرار گرفتن در معرض اشعه UV خورشید است و علائم آن شامل تغییرات در خال‌ها یا ضایعات پوستی مانند نامتقارنی، لبه‌های ناهموار و تغییرات رنگ می‌شود؛ با این حال، تشخیص دیرهنگام می‌تواند نرخ بقا را به شدت کاهش دهد. این پروژه با استفاده از هوش مصنوعی و یادگیری عمیق (مانند مدل‌های pre-trained EfficientNet در TensorFlow) برای تشخیص خودکار سرطان پوست از تصاویر، به حل این مشکل کمک می‌کند. اهمیت آن در فراهم کردن ابزاری سریع و دقیق برای تشخیص زودرس است که می‌تواند جان‌ها را نجات دهد، به پزشکان کمک کند و دسترسی به مراقبت‌های بهداشتی را در مناطق کم‌برخوردار افزایش دهد، به ویژه در روندهای ۲۰۲۵ که تمرکز روی نوآوری‌های AI در پزشکی است.
+<p align="center">
+<img src="skin.jpg" alt="SkinCancerDetection" width="400" style="border-radius: 10px"/>
+</p>
+
+Skin cancer is one of the most common types of cancer worldwide, with over 105,000 new cases of melanoma diagnosed in the United States in 2025, leading to approximately 8,000 deaths, while globally more than 1.5 million new cases have been reported. The primary causes include exposure to UV radiation from the sun, and symptoms involve changes in moles or skin lesions such as asymmetry, irregular borders, and color variations; however, late detection can significantly reduce survival rates. This project uses artificial intelligence and deep learning (such as pre-trained EfficientNet models in TensorFlow) to automatically detect skin cancer from images, helping to solve this problem. Its importance lies in providing a fast and accurate tool for early detection that can save lives, assist doctors, and increase access to healthcare in underserved areas, especially in 2025 trends focusing on AI innovations in medicine.
