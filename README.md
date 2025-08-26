@@ -10,3 +10,7 @@ Skin cancer is one of the most common types of cancer worldwide, with over 105,0
 
 ## Progress
 - Data Understanding: Updated data_exploration.ipynb to inspect dataset images and quality.
+
+## Progress
+- Data Understanding: Inspected dataset images and quality in data_exploration.ipynb.
+- Data Preparation: Added DataPreparation.ipynb for preprocessing and augmentation.
